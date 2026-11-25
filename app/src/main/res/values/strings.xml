@@ -1,11 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!-- Aplicación -->
     <string name="app_name">NurseApp</string>
-    <string name="home_titulo">Hospital</string>
-    <string name="ir_login">Login</string>
-    <string name="ir_lista">Listar enfermeros</string>
-    <string name="ir_busqueda">Buscar enfermeros</string>
-    <string name="volver">Volver</string>
-    <string name="login_titulo">Login de enfermero</string>
-    <string name="lista_titulo">Enfermeros registrados</string>
-    <string name="busqueda_titulo">Búsqueda de enfermeros</string>
+
+
 </resources>
