@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Aplicación -->
+    <!-- Sergi - Home -->
     <string name="app_name">NurseApp</string>
+    <string name="home_titulo">Hospital</string>
+    <string name="home_bienvenida">Bienvenido a NurseApp</string>
+    <string name="home_descripcion">Gestión de enfermeros</string>
+    <string name="ir_login">Login</string>
+    <string name="ir_lista">Listar enfermeros</string>
+    <string name="ir_busqueda">Buscar enfermeros</string>
+    <string name="home_clicks">NurseApp: %1$d</string>
+
+    <!-- Eric - Listar enfermeros -->
+
+
+    <!-- Joel - Login -->
+
+
+    <!-- Akash - Búsqueda de enfermeros -->
 
 
 </resources>
