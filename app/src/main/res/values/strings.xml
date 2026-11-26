@@ -29,6 +29,14 @@
 
 
     <!-- Akash - Búsqueda de enfermeros -->
-
+    <string name="buscar_titulo">Buscar enfermeros</string>
+    <string name="buscar_icono">Icono de enfermera</string>
+    <string name="buscar_campo">Nombre del enfermero</string>
+    <string name="buscar_boton">Buscar</string>
+    <string name="buscar_resultados">Resultados</string>
+    <string name="buscar_sin_resultados">No se han encontrado enfermeros</string>
+    <string name="buscar_enfermero_1">Laura Martínez</string>
+    <string name="buscar_enfermero_2">Carlos Gómez</string>
+    <string name="buscar_enfermero_3">Marta Sánchez</string>
 
 </resources>
