@@ -12,7 +12,18 @@
     <string name="home_clicks">NurseApp: %1$d</string>
 
     <!-- Eric - Listar enfermeros -->
-
+    <string name="lista_titulo">Enfermeros registrados</string>
+    <string name="lista_ninguno">Ningún enfermero seleccionado</string>
+    <string name="lista_seleccionado">Seleccionado: %1$s</string>
+    <string name="lista_volver">Volver</string>
+    <string name="lista_enfermero_1_nombre">Laura Gómez</string>
+    <string name="lista_enfermero_1_especialidad">Urgencias</string>
+    <string name="lista_enfermero_2_nombre">Carlos Ruiz</string>
+    <string name="lista_enfermero_2_especialidad">Pediatría</string>
+    <string name="lista_enfermero_3_nombre">Ana Martín</string>
+    <string name="lista_enfermero_3_especialidad">Cirugía</string>
+    <string name="lista_enfermero_4_nombre">Pablo Sanz</string>
+    <string name="lista_enfermero_4_especialidad">Cuidados intensivos</string>
 
     <!-- Joel - Login -->
 
