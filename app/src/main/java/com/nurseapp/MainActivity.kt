@@ -3,7 +3,7 @@ package com.nurseapp
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.nurseapp.ui.screens.HomeScreen
+import com.nurseapp.ui.screens.SearchNursesScreen
 import com.nurseapp.ui.theme.NurseAppTheme
 
 class MainActivity : ComponentActivity() {
@@ -12,11 +12,7 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             NurseAppTheme {
-                HomeScreen(
-                    onLoginClick = {},
-                    onNursesClick = {},
-                    onSearchClick = {}
-                )
+                SearchNursesScreen()
             }
         }
     }
