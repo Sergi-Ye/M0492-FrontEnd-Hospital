@@ -18,6 +18,7 @@
 
 
     <!-- Akash - Búsqueda de enfermeros -->
+    <string name="buscar_volver">Volver</string>
     <string name="buscar_titulo">Buscar enfermeros</string>
     <string name="buscar_icono">Icono de enfermera</string>
     <string name="buscar_campo">Nombre del enfermero</string>
