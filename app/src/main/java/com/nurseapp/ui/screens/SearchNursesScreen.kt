@@ -143,14 +143,10 @@ fun SearchNursesScreen(onBackClick: () -> Unit) {
 
         Spacer(modifier = Modifier.height(12.dp))
 
-        TextButton(
-            onClick = onBackClick,
+    Button(
+        onClick = onBackClick,
             modifier = Modifier.fillMaxWidth()
-        ) {
-            Text(
-                text = stringResource(R.string.buscar_volver),
-                color = colorResource(R.color.primary)
-            )
-        }
+    ) {
+        Text(stringResource(R.string.buscar_volver))
     }
 }
