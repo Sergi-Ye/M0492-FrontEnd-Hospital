@@ -24,7 +24,7 @@ import com.nurseapp.R
 data class Enfermero(val nombre: String, val especialidad: String)
 
 @Composable
-fun ListaEnfermerosScreen(
+fun NurseListScreen(
     onBackClick: () -> Unit      // Lo que pasa al pulsar "Volver" (lo decide la navegación)
 ) {
 
@@ -159,6 +159,6 @@ fun FilaEnfermero(
 // Vista previa en Android Studio (pestaña Split)
 @Preview(showBackground = true)
 @Composable
-fun ListaEnfermerosPreview() {
-    ListaEnfermerosScreen(onBackClick = {})
+fun NurseListPreview() {
+    NurseListScreen(onBackClick = {})
 }
