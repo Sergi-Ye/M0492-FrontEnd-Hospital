@@ -26,7 +26,13 @@
     <string name="lista_enfermero_4_especialidad">Cuidados intensivos</string>
 
     <!-- Joel - Login -->
-
+    <string name="login_titulo">Login de enfermero</string>
+    <string name="login_usuario">Usuario</string>
+    <string name="login_contrasena">Contraseña</string>
+    <string name="login_entrar">Iniciar sesión</string>
+    <string name="login_error">Introduce usuario y contraseña</string>
+    <string name="login_correcto">Datos introducidos correctamente</string>
+    <string name="login_volver">Volver</string>
 
     <!-- Akash - Búsqueda de enfermeros -->
     <string name="buscar_volver">Volver</string>
